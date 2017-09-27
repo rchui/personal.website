@@ -1,0 +1,19 @@
+.lighten {
+    color: #ECF0F1;
+}
+
+.lighten strong:hover {
+    color: #E74C3C;
+}
+
+.hero {
+    background-color: #2C3E50;
+}
+
+a {
+    color: #2980B9;
+}
+
+a:hover {
+    color: #E74C3C;
+}
