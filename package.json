@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bulma": "^0.5.3",
+    "chart.js": "^2.7.0",
     "font-awesome": "^4.7.0",
     "mobx": "^3.3.0",
     "react": "^16.0.0",
